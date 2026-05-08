@@ -1,0 +1,16 @@
+numpy
+pandas
+tensorflow
+keras
+scikit-learn
+nltk
+spacy
+tqdm
+matplotlib
+talos
+astetik
+chances
+kerasplotlib
+statsmodels
+requests
+wrangle
